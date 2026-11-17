@@ -1,12 +1,12 @@
-# StockLens 📈
+# StockLens
 ### Intelligent Indian Stock Market & IPO Real-Time Intelligence Platform
 
-> **⚠️ Educational & Research Use Only**  
+> **Educational & Research Use Only**  
 > StockLens is built strictly for educational, research, and technical analysis purposes. It does not provide financial or investment advice. Always verify data and financial ratios with official regulatory filings and disclosures on [NSE India](https://www.nseindia.com) and [BSE India](https://www.bseindia.com).
 
 ---
 
-## 🌟 Key Capabilities
+## Key Capabilities
 
 1. **Free Real-Time Ticks & Exact Intraday Candles**
    - **Zero-cost live feeds**: Pulls real-time prices, market breadth (Advances/Declines/Unchanged), order book stats, and intraday candles (1m, 5m, 15m) using NSE official session queries and high-resolution feeds.
@@ -43,7 +43,7 @@
 
 ---
 
-## 📁 Modular Directory Structure
+## Modular Directory Structure
 
 ```
 Market/
@@ -81,7 +81,7 @@ Market/
 
 ---
 
-## 🚀 Quickstart Commands
+## Quickstart Commands
 
 ### 1. Run Live Stock Analysis & Trend Explainer
 ```bash
@@ -131,5 +131,5 @@ pytest
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 Educational and research use only. Not investment advice. Always verify with official SEBI and stock exchange disclosures.
